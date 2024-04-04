@@ -9,6 +9,8 @@ python = "^3.10"
 torch = "2.0.0"
 torchaudio = "2.0.0"
 whisperx = {git = "https://github.com/m-bain/whisperx.git", rev = "main"}
+numpy = "^1.26.4"
+pandas = "^2.2.1"
 
 [tool.poetry.dev-dependencies]
 
